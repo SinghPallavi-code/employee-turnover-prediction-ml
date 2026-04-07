@@ -62,6 +62,8 @@ Future Improvements
 - Add NLP for employee feedback analysis
 - Deploy model using API
 - Build interactive dashboard
+  
+Future scope: Applying NLP and Generative AI for analyzing employee feedback
 
 Author
 [Pallavi-Singh]
